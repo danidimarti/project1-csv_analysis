@@ -1,41 +1,43 @@
-![] (https://giphy.com/gifs/sharkweek-shark-sharks-sharkweek2022-gHGKKgH0SfW9otLFrv)
+![] ("images\hello.gif")
+
 
 # Brazilian Sharks & World Cups
 > _A study about brazilian shark's sentiment over World Cup outcomes_
 ----
 
 ## 1. Libraries and Data used:
-1.1 Libraries: 
-    - seaborn
-    - matplotlib
-    - pandas
-    - numpy
-    - DateTime
-    - warnings
-2.1 Data source:![here]( https://www.kaggle.com/teajay/global-shark-attacks)
+1.1 Libraries: <br>
+    - seaborn <br>
+    - matplotlib <br>
+    - pandas <br>
+    - numpy <br>
+    - DateTime <br>
+    - warnings <br>
+2.1 Data source: https://www.kaggle.com/teajay/global-shark-attacks
     
 
 ## 2. Data Cleaning Documentation: 
-2.1. Check for missing values
-2.2. Drop empty rows
-2.3. Consistent naming convention: 
-    - Capitalizatin
-    - Word separation
-    - Extra spaces
-2.4. Fix inconsistencies in Fatal column
-2.5. Fix Year Column
-    - Drop NaN
-    - Drop Invalid Year format
-2.6. Remove duplicates keeping first 
+2.1. Check for missing values <br>
+2.2. Drop empty rows <br>
+2.3. Consistent naming convention: <br>
+    - Capitalization <br>
+    - Word separation <br>
+    - Extra spaces <br>
+2.4. Fix inconsistencies in Fatal column <br>
+2.5. Fix Year Column <br>
+    - Drop NaN <br>
+    - Drop Invalid Year format <br>
+2.6. Remove duplicates keeping first  <br>
 2.7. Export csv for data extraction and visualization
 
 ## 3. Data Exploration & Visualization
-3.1. Create subset filtering Country data to Brazil
-3.2. Count yearly occurencies of attacks
-3.3. Found median and average values to stablish baseline. 
-3.4. define a criteria by which analyse data:
-    - ANGRYNESS FACTOR: to be relevant angryness factor should be at least 20% above average. 
-3.5. Filter data from 1950 onwards for better visualization 
+3.1. Create subset filtering Country data to Brazil <br>
+3.2. Count yearly occurencies of attacks <br>
+3.3. Found median and average values to stablish baseline. <br>
+3.4. define a criteria by which analyse data <br>
+3.5. Filter data from 1950 onwards for better visualization <br>
+> ANGRYNESS FACTOR: to be relevant angryness factor should be at least 20% above average. <br>
+
 
 ## 4. Analysis
 
