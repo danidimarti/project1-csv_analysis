@@ -43,6 +43,8 @@
 
 ## <span style="color:darkslategrey">Q1.: How angry did _Brazilian_ sharks get after the infamous 7 X 1? </span>
 
+<img width="808" alt="Shark-attacks_BR_WC-2014" src="https://user-images.githubusercontent.com/32434139/215420339-c0c79984-1960-4420-aad0-dc3b319e6811.png">
+
 
 ### <span style="color:darkslategrey"> Q1.1: How was this reaction compared to other World Cups? </span>
 
