@@ -72,6 +72,7 @@ Data shows that most fatal attacks happened when Brazil won the worldcup which i
 
 ## <span style="color:darkslateblue"> BONUS Question: What was the "Angryness Factor" sharks from countries that made it to the finals in the same period? </span>
 
+![Shark-attacks_global_WC-history](https://user-images.githubusercontent.com/32434139/215450500-2ca025fa-52a8-481b-89d0-7592fb810845.png)
 
 ### <span style="color:lightslategrey; line-height:1.5em"> **Analysis:** </span>
 
