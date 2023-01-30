@@ -70,6 +70,15 @@ Data shows that most fatal attacks happened when Brazil won the worldcup which i
 
 ![wow](https://user-images.githubusercontent.com/32434139/215419740-5eff78f2-09fd-4ec8-82a7-64a3bbd8f0f6.gif)
 
+## <span style="color:darkslateblue"> BONUS Question: What was the "Angryness Factor" sharks from countries that made it to the finals in the same period? </span>
+
+
+### <span style="color:lightslategrey; line-height:1.5em"> **Analysis:** </span>
+
+None of the countries that made it to the World Cup finals had a significant increase in the number of attacks, regardless of the outcome of the match. 
+Note: Netherlands data was not available in the dataset.  
+
+
 ### <span style="color:lightslategrey; line-height:1.5em"> **Conclusion:** </span> 
 There's no direct correlation between World Cup outcomes and the Angryness Factor of the sharks. However, more qualitative analysis is needed in order to better understand sharks views and costumns around the topic. 
 
